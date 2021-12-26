@@ -1,4 +1,4 @@
-# Tugas GSLC-21 Computer Vision - Pengenalan Citra (Image Recognation)
+# Tugas GSLC-21 Computer Vision - Pengenalan Citra (Image Recognition)
 Matthew Christopher Albert - 2301848981 - LB75
 
 ## Metode
@@ -15,9 +15,9 @@ Menggunakan CNN dengan input gambar 128x128 (2^x)
 ```
 
 ## Train Data
-- 10 gambar axolotl
-- 10 gambar pisang
-- 10 gambar ban mobil
+- 10 gambar axolotl (Binatang)
+- 10 gambar pisang (Buah)
+- 10 gambar ban mobil (Barang)
 
 ## Hasil
 ![Hasil Train](./output.png)
